@@ -1,0 +1,56 @@
+# -------------------------
+# Photoshop (PSD, PSB, etc.)
+# -------------------------
+# Thumbnails, previews, autosaves
+*.tmp
+*.bak
+*.psb
+*.psd.lock
+*.psd.tmp
+*.psd.autosave
+
+# Adobe cache files
+Adobe Photoshop AutoRecover/
+Photoshop Temp/
+
+# -------------------------
+# Premiere Pro
+# -------------------------
+# Preview and cache files
+*.cfa
+*.pek
+*.ims
+*.prlock
+*.prproj.tmp
+*.prproj.autosave
+
+# Media cache folders
+Adobe Premiere Pro Auto-Save/
+Adobe Premiere Pro Preview Files/
+Adobe Premiere Pro Video Previews/
+Adobe Premiere Pro Audio Previews/
+Adobe Premiere Pro Media Cache/
+Adobe Premiere Pro Media Cache Files/
+
+# -------------------------
+# ProShow
+# -------------------------
+# Backup and temporary files
+*.bak
+*.pxv.autosave
+*.pxv.tmp
+*.pxv.lock
+*.pxc
+
+# Render cache and previews
+ProShow Cache/
+ProShow Previews/
+ProShow Auto-Save/
+
+# -------------------------
+# General OS / Editor junk
+# -------------------------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
