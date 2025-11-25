@@ -41,6 +41,7 @@ Adobe Premiere Pro Media Cache Files/
 *.pxv.tmp
 *.pxv.lock
 *.pxc
+Proshow/out/*.mp4
 
 # Render cache and previews
 ProShow Cache/
